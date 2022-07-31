@@ -1,4 +1,4 @@
-import VideosContainerItem from "./videosContainerItem";
+import VideosContainerItem from "./VideosContainerItem"
 import Loading from './Loading'
 import { useSelector } from 'react-redux'
 
